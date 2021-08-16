@@ -1,0 +1,28 @@
+<div class="full-div">
+    <div class="content-div container">
+        <section id="skills">
+            <div class="row section-title">
+                <p class="title-text">SKILLS</p>
+            </div>
+            <div class="row section-content">
+                <div class="col-md-2 col-4 skill-card" *ngFor="let skill of data.Skills">
+                    <app-skill-card [skill]="skill"></app-skill-card>
+                </div>
+                <div class="skill-card col-md-2 col-4">
+                <p class="themed-text info-text">Please tap/hover on tile for skill level</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="certifications">
+            <div class="row section-title">
+                <p class="title-text">Certifications</p>
+            </div>
+            <div class="row section-content">
+                <div class="col-md-6 col-12 skill-card" *ngFor="let cert of data.Certifications; let position = index">
+                    <app-certification-card [cert]="cert" [position]="position"></app-certification-card>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>

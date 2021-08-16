@@ -1,0 +1,15 @@
+<div class="complete-home-div">
+    <div class="container center-content">
+        <h3 id>Hi👋, I'm <b id="full-name-text">{{data.FullName}}</b></h3>
+        <img class="img-fluid rounded-circle profile-pic" [src]="data.ProfilePicURL" alt="Profile Pic" width="150">
+        <h3 id="home-into-text">{{intoText}}<span id="home-cursor-span"><h1 id="home-custom-cursor">I</h1></span></h3>
+
+        <div id="social-media-div">
+            <a [href]="data.SocialMediaLinks[2]" target="_blank"><i class="fab fa-github font-awesome-icon" aria-hidden="true"></i></a>
+            <a [href]="data.SocialMediaLinks[1]" target="_blank"><i class="fab fa-linkedin-in font-awesome-icon" aria-hidden="true"></i></a>
+            <a [href]="data.SocialMediaLinks[0]" target="_blank"><i class="fab fa-facebook font-awesome-icon" aria-hidden="true"></i></a>
+            <a [href]="data.SocialMediaLinks[3]" target="_blank"><i class="fab fa-instagram font-awesome-icon" aria-hidden="true"></i></a>
+            <a [href]="data.SocialMediaLinks[4]" target="_blank"><i class="fab fa-google-plus font-awesome-icon" aria-hidden="true"></i></a>
+        </div>
+    </div>
+</div>

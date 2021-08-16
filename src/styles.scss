@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+
+// Global Colors
+
+$primary-light-color: #fafafa;
+$primary-dark-color: #0d0d0d;
+$primary-color:#00c4cc;
+$secondary-color:#2D127C;
+
+$primary-darktheme-color: #18d26e;
+$primary-darktheme-color: #0d0d0d;
+
+body { 
+    padding-top: 50px; 
+    font-family: 'Poppins', sans-serif;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/feehub-b8a09.appspot.com/o/Main-Desktop-Background.jpg?alt=media&token=1e62d940-fe0d-4294-a8e2-e0adf7812908");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+//Common Styling
+
+.section-title{
+    margin-left: 15px;
+}
+
+.section-title p::after {
+    content: "";
+    width: 120px;
+    height: 3px;
+    display: inline-block;
+    background-image: linear-gradient(to right, $secondary-color , $primary-color);
+    margin: 4px 10px;
+}
+
+.title-text{
+    color: whitesmoke;
+    letter-spacing: 0.2em;
+}
+
+.full-div {
+    min-height: 92vh;
+  }
+
+.content-div {
+    //background-image: linear-gradient(to top, rgba(0,196,204, 0.5), rgba(45,18,124, 0.5));
+    background-color: rgba($color: #000000, $alpha: 0.5 );
+    padding: 20px;
+}
+
+.custom-hr{
+    min-height: 2px;
+    width: 100%;
+    background-image: linear-gradient(to right, $secondary-color , $primary-color);
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
