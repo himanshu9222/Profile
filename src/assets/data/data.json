@@ -59,7 +59,7 @@
                 {
                     "Position": "Software Engineer 1",
                     "StartDate": "2019-01-07",
-                    "EndDate": "2021-08-12",
+                    "EndDate": "",
                     "Responsibilities": [
                         "MCSA Certified and also Completed Microsoft's certification on SQL, Power BI, Azure.",
                         "Created design documents for the new PBIs and fixed the dev and prod build failures.",
