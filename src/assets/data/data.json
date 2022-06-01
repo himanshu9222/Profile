@@ -30,7 +30,7 @@
     ],
     "Intro": {
         "Short": "I am a Computer Science Graduate from Vidyavardhini College of Engineering and Technology Mumbai.",
-        "Long": "I am having 2 years 7 months of experience in IT industries and contributed in each phase of development lifecycle which helped my current organization to deliver products on time. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and for the success of the organization.",
+        "Long": "I am having experience in IT industries and contributed in each phase of development lifecycle which helped my current organization to deliver products on time. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and for the success of the organization.",
         "Graduation": "Bachelor of Engineering",
         "Hometown": "Mumbai",
         "State": "Maharashtra",
@@ -59,12 +59,22 @@
                 {
                     "Position": "Software Engineer 1",
                     "StartDate": "2019-01-07",
-                    "EndDate": "",
+                    "EndDate": "2021-08-31",
                     "Responsibilities": [
                         "MCSA Certified and also Completed Microsoft's certification on SQL, Power BI, Azure.",
                         "Created design documents for the new PBIs and fixed the dev and prod build failures.",
                         "Worked on Azure Services, Swagger API, .Net Core + Angular JS, Business Rules, GDPR",
                         "Wrote Unit, smoke and integration tests and also wrote front end test cases using jasmine and karma framework."
+                    ]
+                },
+                {
+                    "Position": "Software Engineer 2",
+                    "StartDate": "2021-09-01",
+                    "EndDate": "",
+                    "Responsibilities": [
+                        "Created new CI/CD pipelines on Azure Devops to deploy Azure Services. Explored on Azure Devops pipeline",
+                        "Worked on 'Ember.js 2' for developing web application and Java for the backend solutions",
+                        "Learned skills for Android development using Andriod studio"
                     ]
                 }
             ]
