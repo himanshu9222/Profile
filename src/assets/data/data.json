@@ -61,10 +61,11 @@
                     "StartDate": "2019-01-07",
                     "EndDate": "2021-08-31",
                     "Responsibilities": [
-                        "MCSA Certified and also Completed Microsoft's certification on SQL, Power BI, Azure.",
-                        "Created design documents for the new PBIs and fixed the dev and prod build failures.",
+                        "Completed MCSA Microsoft's certification on SQL, Power BI, Azure.",
                         "Worked on Azure Services, Swagger API, .Net Core + Angular JS, Business Rules, GDPR",
-                        "Wrote Unit, smoke and integration tests and also wrote front end test cases using jasmine and karma framework."
+                        "Worked upon a Web development project which uses Azure Functions to implement business logic, fetches data from Azure Cosmos DB and store it into Azure Cognitive Search.",
+                        "Azure Cognitive Search data is then parsed to create dynamic web pages using Angular. To make sure that each functionality is working as expected we developed unit test cases and React test cases.",
+                        "The Project is based on C# as backend language and Angular as a front-end language."
                     ]
                 },
                 {
@@ -72,18 +73,21 @@
                     "StartDate": "2021-09-01",
                     "EndDate": "",
                     "Responsibilities": [
-                        "Created new CI/CD pipelines on Azure Devops to deploy Azure Services. Explored on Azure Devops pipeline",
-                        "Worked on 'Ember.js 2' for developing web application and Java for the backend solutions",
-                        "Learned skills for Android development using Andriod studio"
+                        "Created design documents for the new PBIs and fixed the dev and prod build failures",
+                        "Wrote Unit, smoke and integration tests and also wrote front end test cases using jasmine and karma framework",
+                        "Created new CI/CD pipelines on Azure Devops to deploy Azure Services",
+                        "Explored on Azure Devops pipeline development",
+                        "Worked on 'Ember.js 2' for developing web application and Java for the backend solutions which contains the endpoint for data",
+                        "Learned skills for Android using Andriod studio"
                     ]
                 }
             ]
         }
     ],
-    "Educations":[
+    "Educations": [
         {
-            "InstituteName":"Vidyavardhini College of Engineering and Technology",
-            "Location":"Vasai",
+            "InstituteName": "Vidyavardhini College of Engineering and Technology",
+            "Location": "Vasai",
             "Board": "Maharashtra Board",
             "CourseName": "Bachelor of Technology",
             "StartDate": "2014-06-1",
@@ -92,9 +96,9 @@
             "Percentile": "66%"
         },
         {
-            "InstituteName":"Vidya Vikasini English High School & Junior College",
-            "Location":"Vasai",
-            "Board":"Maharashtra Board",
+            "InstituteName": "Vidya Vikasini English High School & Junior College",
+            "Location": "Vasai",
+            "Board": "Maharashtra Board",
             "CourseName": "HSC",
             "StartDate": "2012-06-1",
             "EndDate": "2014-06-1",
@@ -102,8 +106,8 @@
             "Percentile": "77.38%"
         },
         {
-            "InstituteName":"Saint Francis De Sales High School",
-            "Location":"Nallasopara",
+            "InstituteName": "Saint Francis De Sales High School",
+            "Location": "Nallasopara",
             "Board": "Maharashtra Board",
             "CourseName": "SSC",
             "StartDate": "2011-06-1",
@@ -112,11 +116,14 @@
             "Percentile": "84.91%%"
         }
     ],
-    "Projects":[
+    "Projects": [
         {
-            "Title":"XYZ",
+            "Title": "XYZ",
             "Description": "XYZ",
-            "Technologies": ["ABC", "ABC"],
+            "Technologies": [
+                "ABC",
+                "ABC"
+            ],
             "StartDate": "2017-06-1",
             "EndDate": "2017-08-1",
             "RepoLink": "",
@@ -125,7 +132,7 @@
             "ProjectType": "Mobile App"
         }
     ],
-    "Skills":[
+    "Skills": [
         {
             "Name": ".Net Core",
             "TotalLevel": 10,
@@ -205,69 +212,69 @@
             "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/SQL-Server-Logo.png?alt=media&token=df8bcfa1-d2db-405b-aa1b-add79de496ce"
         }
     ],
-    "Certifications":[
+    "Certifications": [
         {
             "Name": "MTA: Software Development Fundamentals - Certified 2016",
             "Company": "Microsoft",
             "IssuedDate": "2016-11-22",
             "VerificationLink": "https://www.credly.com/badges/18819786-c605-4baf-bae4-29746810f941",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "Exam 761: Querying Data with Transact-SQL",
             "Company": "Microsoft",
             "IssuedDate": "2019-02-09",
             "VerificationLink": "https://www.credly.com/badges/d15fb7a4-1856-4891-9133-abdb8cf7aa95",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "Exam 778: Analyzing and Visualizing Data with Power BI",
             "Company": "Microsoft",
             "IssuedDate": "2019-03-05",
             "VerificationLink": "https://www.credly.com/badges/43fcd194-a3f0-4a6f-bd99-2394d8039123",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "Exam 762: Developing SQL Databases",
             "Company": "Microsoft",
             "IssuedDate": "2019-06-07",
             "VerificationLink": "https://www.credly.com/badges/7839e5f1-1318-43a7-bc8d-d67a0a47ab1b",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "MCSA: SQL 2016 Database Development - Certified 2019",
             "Company": "Microsoft",
             "IssuedDate": "2019-06-07",
             "VerificationLink": "https://www.credly.com/badges/bb070cae-c965-4b3b-9b5c-880cc0f6edea",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "Microsoft Certified: Azure Developer Associate (Legacy)",
             "Company": "Microsoft",
             "IssuedDate": "2019-08-25",
             "VerificationLink": "https://www.credly.com/badges/39f0777e-3041-4616-ae4e-87dc8f8a2f36",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "AZ-300 Microsoft Azure Architect Technologies",
             "Company": "Microsoft",
             "IssuedDate": "2019-12-10",
             "VerificationLink": "https://www.credly.com/badges/16a0933e-ddda-4340-82d0-e0eeee21d5e7",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "AZ-301 Microsoft Azure Architect Design",
             "Company": "Microsoft",
             "IssuedDate": "2020-02-04",
             "VerificationLink": "https://www.credly.com/badges/a7700723-5f1d-40cc-a245-1502cc3d4a7c",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         },
         {
             "Name": "Microsoft Certified: Azure Solutions Architect Expert (Legacy)",
             "Company": "Microsoft",
             "IssuedDate": "2020-02-04",
             "VerificationLink": "https://www.credly.com/badges/108d298b-0330-4b9a-b792-3ed67fe95b00",
-            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79" 
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/microsoft_logo.jpg?alt=media&token=c8c3b32d-76fb-40aa-b718-ac19a4359e79"
         }
     ]
 }
