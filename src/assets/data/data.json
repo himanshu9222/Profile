@@ -1,13 +1,14 @@
 {
     "FullName": "Himanshu Omprakash Lal",
     "FirstName": "Himanshu",
-    "CurrentRole": "Software Engineer",
+    "CurrentRole": "Software Engineer 2",
     "ProfilePicURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/2021-08-13%2006_49_21-2021-08-13%2006_46_49-IMG_20201228_225046.jpg%20%E2%80%8E-%20Photos.png%20%E2%80%8E-%20Photos.png?alt=media&token=9dd60ce9-f024-4ca5-9743-ed18e8c096bd",
     "SecondaryPicURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/2021-08-13%2006_46_17-IMG_20201228_145528.jpg%20%E2%80%8E-%20Photos.png?alt=media&token=cbc9896b-cb67-475f-acf6-678d3713a25c",
     "Expertise": [
         "Web Development",
         "System Designing",
-        ".Net Service Side Coding",
+        "Azure Development, Deployment, and Maintenance",
+        ".Net Server Side Coding",
         "Android development",
         "Mentoring"
     ],
@@ -113,7 +114,7 @@
             "StartDate": "2011-06-1",
             "EndDate": "2012-06-1",
             "Stream": "Science",
-            "Percentile": "84.91%%"
+            "Percentile": "84.91%"
         }
     ],
     "Projects": [
@@ -136,7 +137,7 @@
         {
             "Name": ".Net Core",
             "TotalLevel": 10,
-            "MyLevel": 10,
+            "MyLevel": 9,
             "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/dotnet.svg?alt=media&token=3848e55b-fb29-4b42-a5d1-afcb2a1b7638"
         },
         {
@@ -210,6 +211,12 @@
             "TotalLevel": 10,
             "MyLevel": 7,
             "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/SQL-Server-Logo.png?alt=media&token=df8bcfa1-d2db-405b-aa1b-add79de496ce"
+        },
+        {
+            "Name": "Azure Devops",
+            "TotalLevel": 10,
+            "MyLevel": 8,
+            "LogoURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/Azure-Devops.svg?alt=media&token=c02784e4-da8b-4816-ac54-ee4b210d9f2d"
         }
     ],
     "Certifications": [
