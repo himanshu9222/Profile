@@ -58,6 +58,30 @@
             "OrderInUI": 1,
             "MoreInfos": [
                 {
+                    "Position": "Senior Software Engineer 1",
+                    "StartDate": "2023-03-01",
+                    "EndDate": "",
+                    "Responsibilities": [
+                        "Responsible for managing a group of seven individuals in a specific project. This involved overseeing their performance, ensuring that they met project deadlines, assigning tasks and responsibilities to team members, monitoring progress, providing guidance and support when needed, resolving conflicts, and communicating with other stakeholders",
+                        "Designed the architecture of project to be microservice using separate solution for each set of work",
+                        "Implemented the vision of microservice build in the initial architecture. Unblocked team members in dev work",
+                        "Worked on Windows Forms App using Visual Studio"
+                    ]
+                },
+                {
+                    "Position": "Software Engineer 2",
+                    "StartDate": "2021-09-01",
+                    "EndDate": "2023-02-28",
+                    "Responsibilities": [
+                        "Created design documents for the new PBIs and fixed the dev and prod build failures",
+                        "Wrote Unit, smoke and integration tests and also wrote front end test cases using jasmine and karma framework",
+                        "Created new CI/CD pipelines on Azure Devops to deploy Azure Services",
+                        "Explored on Azure Devops pipeline development",
+                        "Worked on 'Ember.js 2' for developing web application and Java for the backend solutions which contains the endpoint for data",
+                        "Learned skills for Android using Andriod studio"
+                    ]
+                },
+                {
                     "Position": "Software Engineer 1",
                     "StartDate": "2019-01-07",
                     "EndDate": "2021-08-31",
@@ -67,19 +91,6 @@
                         "Worked upon a Web development project which uses Azure Functions to implement business logic, fetches data from Azure Cosmos DB and store it into Azure Cognitive Search.",
                         "Azure Cognitive Search data is then parsed to create dynamic web pages using Angular. To make sure that each functionality is working as expected we developed unit test cases and React test cases.",
                         "The Project is based on C# as backend language and Angular as a front-end language."
-                    ]
-                },
-                {
-                    "Position": "Software Engineer 2",
-                    "StartDate": "2021-09-01",
-                    "EndDate": "",
-                    "Responsibilities": [
-                        "Created design documents for the new PBIs and fixed the dev and prod build failures",
-                        "Wrote Unit, smoke and integration tests and also wrote front end test cases using jasmine and karma framework",
-                        "Created new CI/CD pipelines on Azure Devops to deploy Azure Services",
-                        "Explored on Azure Devops pipeline development",
-                        "Worked on 'Ember.js 2' for developing web application and Java for the backend solutions which contains the endpoint for data",
-                        "Learned skills for Android using Andriod studio"
                     ]
                 }
             ]
