@@ -1,7 +1,7 @@
 {
     "FullName": "Himanshu Omprakash Lal",
     "FirstName": "Himanshu",
-    "CurrentRole": "Software Engineer 2",
+    "CurrentRole": "Senior Software Engineer",
     "ProfilePicURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/2021-08-13%2006_49_21-2021-08-13%2006_46_49-IMG_20201228_225046.jpg%20%E2%80%8E-%20Photos.png%20%E2%80%8E-%20Photos.png?alt=media&token=9dd60ce9-f024-4ca5-9743-ed18e8c096bd",
     "SecondaryPicURL": "https://firebasestorage.googleapis.com/v0/b/profile-b7cf3.appspot.com/o/2021-08-13%2006_46_17-IMG_20201228_145528.jpg%20%E2%80%8E-%20Photos.png?alt=media&token=cbc9896b-cb67-475f-acf6-678d3713a25c",
     "Expertise": [
@@ -10,7 +10,7 @@
         "Azure Development, Deployment, and Maintenance",
         ".Net Server Side Coding",
         "Android development",
-        "Mentoring"
+        "Team mentoring"
     ],
     "SocialMediaLinks": [
         "https://www.facebook.com/himanshulal922/",
@@ -65,7 +65,7 @@
                         "Responsible for managing a group of seven individuals in a specific project. This involved overseeing their performance, ensuring that they met project deadlines, assigning tasks and responsibilities to team members, monitoring progress, providing guidance and support when needed, resolving conflicts, and communicating with other stakeholders",
                         "Designed the architecture of project to be microservice using separate solution for each set of work",
                         "Implemented the vision of microservice build in the initial architecture. Unblocked team members in dev work",
-                        "Worked on Windows Forms App using Visual Studio"
+                        "Worked on Windows Forms App using C# and Visual Studio"
                     ]
                 },
                 {
@@ -74,11 +74,11 @@
                     "EndDate": "2023-02-28",
                     "Responsibilities": [
                         "Created design documents for the new PBIs and fixed the dev and prod build failures",
-                        "Wrote Unit, smoke and integration tests and also wrote front end test cases using jasmine and karma framework",
-                        "Created new CI/CD pipelines on Azure Devops to deploy Azure Services",
-                        "Explored on Azure Devops pipeline development",
+                        "Wrote Unit, smoke and integration tests and wrote front end test cases using jasmine and karma framework",
+                        "Created new CI/CD pipelines on Azure DevOps to deploy Azure Services",
+                        "Explored on Azure DevOps pipeline development",
                         "Worked on 'Ember.js 2' for developing web application and Java for the backend solutions which contains the endpoint for data",
-                        "Learned skills for Android using Andriod studio"
+                        "Learned skills for Android using Android studio"
                     ]
                 },
                 {
@@ -88,7 +88,7 @@
                     "Responsibilities": [
                         "Completed MCSA Microsoft's certification on SQL, Power BI, Azure.",
                         "Worked on Azure Services, Swagger API, .Net Core + Angular JS, Business Rules, GDPR",
-                        "Worked upon a Web development project which uses Azure Functions to implement business logic, fetches data from Azure Cosmos DB and store it into Azure Cognitive Search.",
+                        "Worked on Web development project which uses Azure Functions to implement business logic, fetches data from Azure Cosmos DB and store it into Azure Cognitive Search.",
                         "Azure Cognitive Search data is then parsed to create dynamic web pages using Angular. To make sure that each functionality is working as expected we developed unit test cases and React test cases.",
                         "The Project is based on C# as backend language and Angular as a front-end language."
                     ]
@@ -124,7 +124,7 @@
             "CourseName": "SSC",
             "StartDate": "2011-06-1",
             "EndDate": "2012-06-1",
-            "Stream": "Science",
+            "Stream": "",
             "Percentile": "84.91%"
         }
     ],
